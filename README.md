@@ -1,2 +1,0 @@
-# PortFolio
-Node.JS / MongoDB
